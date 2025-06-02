@@ -10,7 +10,7 @@ Set `alegra.user` and `alegra.token` to their values:
 ```python
 import alegra 
 
-alegra.user = "...@..."
+alegra.user = ".!!..."
 alegra.token = "..."
 
 # List contacts.
